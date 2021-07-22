@@ -1,54 +1,57 @@
 {
-  "page": 1,
-  "last_page": false,
-  "content": [
-    {
-      "name": "",
-      "role": "",
-      "email": "",
-      "departments": [
+ 
+  "list_users": {
+    "page": 1,
+    "last_page": false,
+    "content": [
         {
-          "code": "",
-          "name": ""
-        }
-      ],
-      "access_level": ""
-    },
-    {
-      "name": "",
-      "role": "",
-      "email": "",
-      "departments": [
+          "name": "",
+          "role": "",
+          "email": "",
+          "departments": [
+            {
+              "code": "",
+              "name": ""
+            }
+          ],
+          "access_level": ""
+        },
         {
-          "code": "",
-          "name": ""
-        }
-      ],
-      "access_level": ""
-    },
-    {
-      "name": "",
-      "role": "",
-      "email": "",
-      "departments": [
-        {
-          "code": "",
-          "name": ""
-        }
-      ],
-      "access_level": ""
-    },
-    {
-      "name": "",
-      "role": "",
-      "email": "",
-      "departments": [
-        {
-          "code": "",
-          "name": ""
-        }
-      ],
-      "access_level": ""
+          "name": "",
+          "role": "",
+          "email": "",
+          "departments": [
+            {
+              "code": "",
+              "name": ""
+            }
+          ],
+          "access_level": ""
+          },
+          {
+            "name": "",
+            "role": "",
+            "email": "",
+            "departments": [
+              {
+                "code": "",
+                "name": ""
+              }
+            ],
+            "access_level": ""
+          },
+          {
+            "name": "",
+            "role": "",
+            "email": "",
+            "departments": [
+              {
+                "code": "",
+                "name": ""
+              }
+            ],
+            "access_level": ""
+          }
+      ]
     }
-  ]
 }
