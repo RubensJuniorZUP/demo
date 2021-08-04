@@ -53,5 +53,25 @@
             "access_level": ""
           }
       ]
-    }
+    },
+
+   "perfil_user":{
+    "name": "Tester",
+    "role": "Manager",
+    "email": "tester1@test.com",
+    "departments": [
+      {
+        "code": "SJK/SHG/KJH",
+        "name": "Assembly"
+      },
+      {
+        "code": "SDK/LJH/NBC",
+        "name": "Painting"
+      }
+    ],
+    "menu": [
+      "LOGOUT",
+      "ACCESS_MANAGEMENT"
+    ]
+  }
 }
