@@ -70,7 +70,8 @@
       }
     ],
     "menu": [
-      "LOGOUT"
+      "LOGOUT",
+      "ACCESS_MANAGEMENT"
     ]
   }
 }
