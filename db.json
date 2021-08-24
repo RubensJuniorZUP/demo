@@ -57,21 +57,26 @@
 
    "perfil_user":{
     "name": "Tester",
-    "role": "Manager",
     "email": "tester1@test.com",
-    "departments": [
+    "preferences": {
+      "language": "pt-BR",
+      "boardId": 1,
+      "category": "Q"
+    },
+    "boards": [
       {
-        "code": "SJK/SHG/KJH",
+        "id": 1,
         "name": "Assembly"
       },
       {
-        "code": "SDK/LJH/NBC",
+        "id": 2,
         "name": "Painting"
       }
     ],
     "menu": [
       "LOGOUT",
-      "ACCESS_MANAGEMENT"
+      "ACCESS_MANAGEMENT",
+      "PREFERENCES"
     ]
   }
 }
