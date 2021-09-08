@@ -78,5 +78,31 @@
       "ACCESS_MANAGEMENT",
       "PREFERENCES"
     ]
+  },
+  "perfil_user2":{
+    "name": "Tester",
+    "email": "tester1@test.com",
+    "preferences": {
+      "language": "pt-BR",
+      "boardId": 1,
+      "category": "Q"
+    },
+    "boards": [
+      {
+        "id": 1,
+        "name": "Assembly"
+      },
+      {
+        "id": 2,
+        "name": "Painting"
+      }
+    ],
+    "menu": [
+      "LOGOUT",
+      "ACCESS_MANAGEMENT",
+      "PREFERENCES"
+    ]
   }
+
+  
 }
